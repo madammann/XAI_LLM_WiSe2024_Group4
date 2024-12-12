@@ -5,3 +5,7 @@ pandas==2.2.2
 plotly==5.19.0
 torch==2.2.1
 transformer_lens==1.17.0
+jupyterlab
+tqdm
+matplotlib
+sentence-transformers
